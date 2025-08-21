@@ -96,6 +96,7 @@ This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/t
 + [Sway](https://github.com/coodos/sway-dots) - coodos
 + [Xresources](https://github.com/folke/tokyonight.nvim/tree/main/extras/xresources) - folke
 + [Openbox](https://github.com/laggy-tux/tokyo-night-openbox) - laggy-tux
++ [Qtile](https://github.com/zakky20/dotfiles) - zakky20
 
 ### Application Launchers 
 
