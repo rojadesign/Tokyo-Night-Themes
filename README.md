@@ -20,6 +20,7 @@ Made a website for this list and palettes. [Check it out](https://wixdaq.github.
 This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/tokyo-night-vscode-theme/tree/master) VScode theme. For better workflow when creating themes for application that does not support Hex color codes I have added RGB Color codes. The "Use" column is for the VScode theme specifically but I find it a good reference when creating themes. 
 
 ### Tokyo Night and Tokyo Night Storm
+
 | **Hexadecimal**                               | **RGB**              | **Use**                                                                                                                 |
 | :-------------------------------------------- | :------------------- | :---------------------------------------------------------------------------------------------------------------------- |
 | ![alt text](color-codes/f7768e.gif)`#f7768e`  | `rgb(247, 118, 142)` | This keyword, HTML elements, Regex group symbol, CSS units, Terminal Red                                                |
@@ -42,6 +43,7 @@ This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/t
 | ![alt text](color-codes/1a1b26.gif)`#1a1b26`  | `rgb(26, 27, 38)`    | Editor Background (Night)                                                                                               |
 
 ### Tokyo Night Light
+
 | **Hexadecimal**                               | **RGB**              | **Use**                                                                                              |
 | :-------------------------------------------- | :------------------- | :--------------------------------------------------------------------------------------------------- |
 | ![alt image](color-codes/8c4351.gif)`#8c4351` | `rgb(140, 67, 81)`   | This keyword, HTML elements, Regex group symbol, CSS units, Terminal Red                             |
@@ -59,6 +61,7 @@ This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/t
 | ![alt image](color-codes/343b58.gif)`#343B58` | `rgb(52, 59, 88)`    | Terminal Black                                                                                       |
 | ![alt image](color-codes/6c6e75.gif)`#6c6e75` | `rgb(108, 110, 117)` | Comments                                                                                             |
 | ![alt image](color-codes/e6e7ed.gif)`#e6e7ed` | `rgb(230, 231, 237)` | Editor Background                                                                                    |
+
 ### Terminals 
 
 + [Alacritty](https://github.com/zatchheems/tokyo-night-alacritty-theme) - zatchheems 
@@ -78,12 +81,9 @@ This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/t
 + [WezTerm](https://github.com/folke/tokyonight.nvim/tree/main/extras/wezterm) - folke
 + [Windows Terminal](https://github.com/folke/tokyonight.nvim/tree/main/extras/windows_terminal) - folke
 + [xfceterm](https://github.com/folke/tokyonight.nvim/tree/main/extras/xfceterm) - folke
-
 + [Starship](https://starship.rs/presets/tokyo-night) - Starship
 + [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/tokyo.omp.json) - JanDeDobbeler
-
-
-
++ [iTerm2](https://github.com/rojadesign/iTerm2-Tokyo-Night-Color-Theme) - rojadesign
 
 ### Window Managers 
 
@@ -166,7 +166,4 @@ This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/t
 + [Yazi](https://github.com/folke/tokyonight.nvim/tree/main/extras/yazi) - folke
 + [zathura](https://github.com/folke/tokyonight.nvim/tree/main/extras/zathura) - folke
 + [Zed](https://github.com/ssaunderss/zed-tokyo-night) - ssaunderss
-+ [Zellij](https://github.com/folke/tokyonight.nvim/tree/main/extras/zellij) - folke 
-
-
-
++ [Zellij](https://github.com/folke/tokyonight.nvim/tree/main/extras/zellij) - folke
